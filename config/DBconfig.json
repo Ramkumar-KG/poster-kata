@@ -1,0 +1,22 @@
+{
+  "source": {
+	"url": "jdbc:postgresql://ep-black-sky-a1uaiu51.ap-southeast-1.aws.neon.tech/SOURCEDB?sslmode=require",
+	"host":"ep-black-sky-a1uaiu51.ap-southeast-1.aws.neon.tech",
+	"port":"5432",
+    "user": "SOURCEDB_owner",
+    "password": "2RaCKJfeB6zN",
+    "sslmode": "require",
+	"DBname":"SOURCEDB",
+    "sslrootcert": "path_to_your_ssl_certificate.pem"
+  },
+  "target": {
+    "url": "jdbc:postgresql://pg-20d77a1a-samplesource.e.aivencloud.com:26689/defaultdb",
+	"host":"pg-20d77a1a-samplesource.e.aivencloud.com",
+	"port":"26689",
+	"user": "avnadmin",
+    "password": "AVNS_2uZ9x3_vF9bnLNEmFdv",
+	"DBname":"defaultdb",
+    "sslmode": "require",
+    "sslrootcert": "path_to_your_ssl_certificate.pem"
+  }
+}
