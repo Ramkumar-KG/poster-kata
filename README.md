@@ -1,5 +1,9 @@
 # poster-kata
 Sample ETL to look  for starships from https://swapi.dev/ , generate sample customer data for posters sales  and create sample util functions and test case
+
+
+
+
 Download the folder.
 install all the required packages listed requirements.txt file.
 check the Java, python, spark bins are added in path folder.
