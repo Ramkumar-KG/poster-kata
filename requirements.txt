@@ -1,0 +1,10 @@
+Faker==26.0.0
+json5==0.9.14
+numpy==1.24.4
+pandas==2.0.3
+psycopg2==2.9.9
+pyspark==3.4.1
+pytest==8.3.2
+readme_renderer==43.0
+requests==2.31.0
+SQLAlchemy==2.0.22
